@@ -15,14 +15,12 @@ Dailies is a simple daily quest tracker app designed to help users achieve their
 git clone https://github.com/yourusername/dailies.git
 
 2. Install dependencies:
-
-cd dailies
-npm install
+  cd dailies
+  npm install
 
 3. Run the app:
-
-For Android:
-npx react-native run-android or npm run android
+  For Android:
+    npx react-native run-android or npm run android
 
 
 ## Contributing
